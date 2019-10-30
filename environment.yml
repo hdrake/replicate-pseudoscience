@@ -1,0 +1,8 @@
+name: vixra_replicate
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - pandas
+  - numpy
+  - xlrd
